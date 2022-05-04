@@ -12,7 +12,14 @@
 - Cnblogs: https://www.cnblogs.com/chenyun-/ 
 - Email: chenyun19990221@qq.com
 
-<hr>
+#### 💬 Stars && Languages
+<p align="center">
+  <a href="https://github.com/Cyun0221" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cyun0221&theme=&title_color=0080ff&text_color=0080ff88" alt="Cyun0221's Stats" >
+  </a>
+</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyun0221&theme=light&layout=compact)
+
 
 <!--
 **Cyun0221/Cyun0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
