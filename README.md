@@ -6,19 +6,18 @@
 
 [You can know more about me by click here.](https://cyun0221.github.io/about.html)
 
-#### 📫 You can see me in these place
+#### 💬 You can see me in these place
 
-- Bilibili: https://space.bilibili.com/39102715?spm_id_from=333.1007.0.0
+- Bilibili: https://space.bilibili.com/39102715
 - Cnblogs: https://www.cnblogs.com/chenyun-/ 
 - Email: chenyun19990221@qq.com
 
-#### 💬 Stars && Languages
+#### 📫 Stars && Languages
 <p align="center">
   <a href="https://github.com/Cyun0221" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=Cyun0221&theme=&title_color=0080ff&text_color=0080ff88" alt="Cyun0221's Stats" >
   </a>
 </p>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyun0221&theme=light&layout=compact)
 
 
 <!--
