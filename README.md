@@ -1,6 +1,6 @@
 <hr>
 <div align=center>
-  <img src="[https://cyun0221.github.io/assets/images/README/cyun.jpg](https://cdn.staticaly.com/gh/Cyun0221/imageBED@main/20221123/IMG_2902.4fqphqt90600.JPG)" alt="头像" width=404 height=303>
+  <img src="https://cdn.staticaly.com/gh/Cyun0221/imageBED@main/20221123/IMG_2902.4fqphqt90600.JPG" alt="头像" width=404 height=303>
 </div>
 
 #### 🆔 About Me
